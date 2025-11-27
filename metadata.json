@@ -1,0 +1,5 @@
+{
+  "name": "NextStep AI",
+  "description": "An AI-powered Micro-Career Mentor and Roadmap Generator using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
