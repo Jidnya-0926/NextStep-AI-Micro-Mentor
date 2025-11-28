@@ -28,10 +28,6 @@
 </a>
 
 
-<a href="#-final-note">
-  <img src="https://img.shields.io/badge/📝%20Final%20Note-FF9F0A?style=for-the-badge" />
-</a>
-
 </p>
 
 
