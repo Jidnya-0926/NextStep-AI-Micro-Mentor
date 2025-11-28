@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/🔄%20Workflow%20Diagram-FECB2F?style=for-the-badge" />
 </a>
 
-<a href="#live-website">
+<a href="#-live-website">
   <img src="https://img.shields.io/badge/🌐%20Live%20Website-0A84FF?style=for-the-badge&labelColor=000000" />
 </a>
 
