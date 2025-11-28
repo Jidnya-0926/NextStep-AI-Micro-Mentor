@@ -166,10 +166,19 @@ Handles:
 
 ---
 
+# *Pre-Setup*
+```bash 
+Download node.js from
+https://nodejs.org/en/download/current
+
+```
+---
+
 # ▶ *Installation*
 ``` bash
-- git clone (https://github.com/Jidnya-0926/NextStep-AI-Micro-Mentor)
-- cd nextstep-ai
+- git clone https://github.com/Jidnya-0926/NextStep-AI-Micro-Mentor
+- cd NextStep-AI-Micro-Mentor-main
+- New-Item .env.local    {create .env.local file in  NextStep-AI-Micro-Mentor-main and paste  " GEMINI_API_KEY= YOUR_API_KEY_REPLACE " }
 - npm install
 - npm run dev
 
