@@ -167,12 +167,13 @@ Handles:
 ---
 
 # ▶ *Installation*
-
-- git clone https://github.com/Jidnya-0926/NextStep-AI
+``` bash
+- git clone (https://github.com/Jidnya-0926/NextStep-AI-Micro-Mentor)
 - cd nextstep-ai
 - npm install
 - npm run dev
 
+```
 ---
 
 # ⏳ *Future Improvements*
@@ -203,19 +204,17 @@ Built strictly following *Google × Kaggle AI Agents Intensive* Specifications.
 ---
 
 # 👤 *Authors*
-
-*Jidnya Bhagat*
-
+```bash 
+Jidnya Bhagat
 Frontend Developer | UI/UX
 
-*Soham Palkar*
-
+Soham Palkar
 Project Lead | System Architect
 
-*Mahavir Rawal*
-
+Mahavir Rawal
 Testing & Model Research
 
+```
 --- 
 
 <div align="center">
